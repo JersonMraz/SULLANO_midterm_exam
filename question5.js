@@ -2,7 +2,7 @@ const express = require('express');
 const { Sequelize, DataTypes } = require('sequelize');
 
 //Set up the Sequelize
-const sequelize = new Sequelize('mysql://user:password@localhost:3306/mydatabase');
+const sequelize = new Sequelize('AHHHH DI MA CONNECT SIR (ARTE ANG ADMIN DI PA PASSWORD)');
 
 //User model
 const User = sequelize.define('User', {
